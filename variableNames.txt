@@ -1,0 +1,11 @@
+//feel free to change we don't know what we're doing
+
+Variable Naming System:
+  1. What does it do?
+  2. Where (what system) is it used in?
+  3. What type of variable is it? ex. boolean
+  4. more than 3 letters (not x, looking at you Rye)
+  5. "ID" for button ids
+  6. Clarity for future coders/readers - should be self explanitory outside of context
+  7. Relevancy - relevant to robot
+  8. if it's an instance of a class inclued the class name or similar
